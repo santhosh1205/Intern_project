@@ -1,6 +1,0 @@
-#include<stdio.>
-
-int main (void) {
-	printf("\neUR is the best");
-	return 0;
-}
